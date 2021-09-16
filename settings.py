@@ -1,0 +1,7 @@
+# Moni api credentials
+MONI_CREDENTIALS = "ZGpzOTAzaWZuc2Zpb25kZnNubm5u"
+
+# Token constants
+SECRET_KEY = "42bb1604cbbd11e94a0c3bc18e452592ab5ed4fe53da5e72b380dbc7b9c515b0"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
